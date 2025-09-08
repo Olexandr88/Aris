@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Vectorized/Aris/master/logo.svg" width="246" height="128">
 
-![NPM](https://img.shields.io/npm/l/aris)
+[![NPM](https://img.shields.io/npm/l/aris)](https://opensource.org/license/MIT)
 ![npm](https://img.shields.io/npm/v/aris)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/aris)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-success)
